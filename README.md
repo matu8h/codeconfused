@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
-**Project** Website for codeconfused.com (hosted on hashnode](https://codeconfused.hashnode.dev) while in development.
+**Project** Website for codeconfused.com (hosted on [hashnode](https://codeconfused.hashnode.dev) while in development.
 
 **Tech stack** NextJS+GraphQL (front-end), WordPress (headless backend)
 
-**Progress details** Follow for more on codeconfused.com(https://codeconfused.hashnode.dev)
+**Progress details** Follow for more on [hashnode](https://codeconfused.hashnode.dev) or [Twitter](https://twitter.com/_codeconfused)
 
 ### Day 0: 9 February 2023
 
